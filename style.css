@@ -1,0 +1,135 @@
+.flexcontainer{
+    border:solid black;
+    height:auto;
+    display:flex;
+    justify-content: space-around;
+
+}
+
+.flexitem
+{
+border:solid gray;
+height:90px;
+width:90px;
+border-width:4px;
+
+
+}
+
+#b1{
+    background-color: blue;
+}
+#b2{
+    background-color: red;
+}
+#b3{
+    background-color: green;
+}
+#b4{
+    background-color: purple;
+
+}
+#b5{
+    background-color: yellow
+    
+}
+#b6{
+    background-color: cyan;
+    
+}
+#b7{
+    background-color: peru;
+    
+}
+#b8{
+    background-color: purple;
+    
+}
+
+.Flexlinkcontainer1{
+    border:dotted red;
+    height:auto;
+    display:flex;
+
+}
+.Flexlinkkid{
+
+    border:solid black;
+    height: auto;
+    padding:10px;
+}
+#kid2{
+    margin-left: auto;
+}
+.Flexlinkcontainer2{
+    border:dotted red;
+    height:auto;
+    display:flex;
+
+}
+.Flexlinkkid2{
+
+    border:solid black;
+    height: auto;
+    padding:10px;
+   
+}
+#kid55{
+    margin-left:auto;
+}
+
+.Flexlinkcontainer3{
+
+    border:dotted red;
+    height:auto;
+    display:flex;
+
+}
+.Flexlinkkid3{
+    border:solid black;
+    height: auto;
+    padding:10px;
+}
+
+#kid111{
+    margin-left:auto;
+}
+.Flexlinkcontainer4{
+    border:dotted red;
+    height:auto;
+    display:flex;
+    justify-content: center;
+ 
+
+}
+.Flexlinkkid4{
+    border:solid black;
+    height: auto;
+    padding:10px;
+}
+ 
+ .img-container img {
+    border: red;
+    width:100%;
+    height: 150px;
+ }
+ .card-body p, .card-body h1 {
+    margin: 8px;
+ }
+
+
+
+ .majorFlex{
+    border:solid blue;
+    /* margin:2em; */
+    /* height:35vh; */
+    display:flex;
+    height:auto;
+    flex-wrap:wrap;
+    width:80%;
+}
+.card-body{
+    border:1px solid green;
+    height: auto;
+    
+}
